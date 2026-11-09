@@ -1,0 +1,100 @@
+¿Cuántos días tiene una semana?	7	5	6	8
+¿Cuál es el primer mes del año?	Enero	Febrero	Marzo	Diciembre
+¿Qué color se obtiene al mezclar pintura azul y amarilla?	Verde	Naranja	Morado	Rojo
+¿Qué deporte utiliza una raqueta y una pelota?	Tenis	Natación	Atletismo	Boxeo
+¿Cuál es el idioma oficial de Brasil?	Portugués	Español	Inglés	Francés
+¿En qué fecha se celebra tradicionalmente la Navidad?	25 de diciembre	24 de noviembre	1 de enero	14 de febrero
+¿Qué instrumento musical tiene teclas blancas y negras?	Piano	Tambor	Guitarra	Trompeta
+¿Qué indica la luz roja de un semáforo?	Detenerse	Avanzar	Acelerar	Girar obligatoriamente
+¿Qué instrumento se utiliza para medir la temperatura?	Termómetro	Reloj	Brújula	Regla
+¿Qué deporte se practica principalmente en una piscina?	Natación	Baloncesto	Ciclismo	Tenis
+¿Cuánto es 8 + 7?	15	14	16	17
+¿Cuánto es 6 × 4?	24	20	22	28
+¿Cuánto es 30 − 12?	18	16	20	22
+¿Cuánto es 36 dividido entre 6?	6	5	7	8
+¿Cuál es la mitad de 50?	25	20	15	30
+¿Cuál es el doble de 14?	28	24	26	30
+Si tienes 3 bolsas con 5 dulces cada una, ¿cuántos dulces tienes en total?	15	8	12	18
+Completa la secuencia: 3, 6, 9, 12...	15	13	14	16
+¿Cuál es el perímetro de un cuadrado cuyos lados miden 4 cm?	16 cm	8 cm	12 cm	20 cm
+¿Cuánto es la cuarta parte de 20?	5	4	10	15
+¿Cuál es la estrella más cercana a la Tierra?	El Sol	La Luna	Marte	Júpiter
+¿Qué gas necesita el ser humano para respirar y vivir?	Oxígeno	Hidrógeno	Helio	Metano
+¿Qué órgano se encarga de bombear la sangre por el cuerpo?	Corazón	Cerebro	Estómago	Pulmones
+¿Cómo se llama el agua cuando se encuentra en estado sólido?	Hielo	Vapor	Niebla	Lluvia
+¿Qué planeta es famoso por sus grandes anillos?	Saturno	Tierra	Marte	Mercurio
+¿Cuántas patas tiene una hormiga?	6	4	8	10
+¿Qué fuente de energía utilizan las plantas para realizar la fotosíntesis?	Luz solar	Sonido	Electricidad	Viento
+¿Cómo se llama la etapa de una rana cuando todavía tiene cola y vive en el agua?	Renacuajo	Larva de mariposa	Polluelo	Cachorro
+¿Qué movimiento de la Tierra produce la sucesión del día y la noche?	Rotación	Traslación	Evaporación	Vibración
+¿Cuál es el órgano más grande del cuerpo humano?	La piel	El corazón	El cerebro	El hígado
+¿Cuál es la capital de México?	Ciudad de México	Guadalajara	Monterrey	Puebla
+¿Cuál es la capital de Colombia?	Bogotá	Medellín	Cali	Cartagena
+¿En qué continente se encuentra Francia?	Europa	Asia	África	Oceanía
+¿Cuál es el océano más grande del mundo?	Pacífico	Atlántico	Índico	Ártico
+¿En qué país se encuentran las famosas pirámides de Guiza?	Egipto	México	Perú	India
+¿Cómo se llama la línea imaginaria que divide la Tierra en hemisferio norte y sur?	Ecuador	Meridiano de Greenwich	Trópico de Cáncer	Círculo polar ártico
+¿En qué país se encuentra la Estatua de la Libertad?	Estados Unidos	México	Canadá	Argentina
+¿Qué país tiene una forma geográfica similar a una bota?	Italia	Francia	España	Alemania
+¿Qué antigua civilización construyó Chichén Itzá?	Maya	Azteca	Inca	Egipcia
+¿Cómo se llama la representación de la superficie terrestre sobre una superficie plana?	Mapa	Globo terráqueo	Brújula	Telescopio
+Tengo dientes, pero no puedo morder. Me utilizan para arreglar el cabello. ¿Qué soy?	Un peine	Un cepillo de dientes	Un espejo	Una tijera
+¿Qué se moja mientras seca?	Una toalla	Una esponja	Una sombrilla	Un ventilador
+Tengo agujas y números, pero no puedo coser. ¿Qué soy?	Un reloj	Una calculadora	Un calendario	Un teléfono
+Tengo muchas hojas con letras, pero no soy un árbol. ¿Qué soy?	Un libro	Una mesa	Una mochila	Una ventana
+¿Qué pesa más: un kilo de algodón o un kilo de hierro?	Pesan lo mismo	El hierro	El algodón	Depende del color
+Si hoy es lunes, ¿qué día será pasado mañana?	Miércoles	Martes	Jueves	Viernes
+Dos padres y dos hijos van al cine, pero solamente son tres personas. ¿Cómo es posible?	Son abuelo, padre e hijo	Uno de ellos no entró	Son cuatro personas	Los hijos son gemelos
+¿Qué número continúa la secuencia: 2, 4, 8, 16...?	32	24	18	30
+Si tienes cinco manzanas y tomas dos, ¿cuántas manzanas tienes tú en las manos?	2	3	5	7
+Tengo cuello, pero no tengo cabeza. Puedo contener agua. ¿Qué soy?	Una botella	Una cuchara	Una lámpara	Una pelota
+En una carrera, Ana llega antes que Luis y Luis antes que Marta. ¿Quién llega primero?	Ana	Luis	Marta	Los tres al mismo tiempo
+Una bicicleta tiene 2 ruedas. ¿Cuántas ruedas tienen 4 bicicletas?	8	6	10	12
+Si una película empieza a las 3:00 y dura una hora, ¿a qué hora termina?	4:00	3:30	5:00	2:00
+Una caja tiene 12 lápices. Si regalas 5, ¿cuántos quedan?	7	5	6	8
+¿Cuál de estos materiales suele ser atraído por un imán?	Hierro	Madera	Papel	Vidrio
+¿Qué debe hacer un peatón antes de cruzar una calle?	Mirar a ambos lados	Correr sin mirar	Mirar solo al cielo	Caminar mirando el celular
+¿Cuál es la mejor manera de ahorrar agua al lavarse los dientes?	Cerrar el grifo al cepillarse	Dejar el grifo abierto	Usar dos grifos	Llenar la bañera
+¿Qué animal pasa por una etapa de oruga antes de ser adulto?	Mariposa	Perro	Gallina	Gato
+Si pones un cubo de hielo al sol, ¿qué ocurre primero?	Se derrite	Se convierte en piedra	Se hace más grande	Se vuelve madera
+¿Qué necesita una semilla para germinar, además de condiciones adecuadas de temperatura?	Agua	Pintura	Plástico	Arena de colores
+¿Por qué vemos nuestra imagen en un espejo?	Porque refleja la luz	Porque produce sombras	Porque absorbe toda la luz	Porque genera viento
+¿Qué ocurre con la sombra de una persona cuando la luz cambia de dirección?	Cambia de posición	Desaparece siempre	Se vuelve más pesada	Se convierte en agua
+Si tienes 20 fichas y las repartes entre 4 amigos por igual, ¿cuántas recibe cada uno?	5	4	6	8
+Una pizza se divide en 8 porciones. Si comes 3, ¿cuántas quedan?	5	3	4	6
+¿Cuál de estas acciones es un ejemplo de reciclar?	Separar papel para reutilizarlo	Tirar pilas al río	Quemar botellas	Dejar basura en el parque
+¿Qué sentido utilizas principalmente para escuchar música?	Oído	Gusto	Olfato	Tacto
+¿Cuál de estos objetos sirve para orientarse con los puntos cardinales?	Brújula	Termómetro	Balanza	Cronómetro
+Si hoy es viernes, ¿qué día será dentro de tres días?	Lunes	Domingo	Martes	Miércoles
+En un equipo hay 3 niñas y 4 niños. ¿Cuántas personas hay?	7	6	8	9
+¿Por qué es importante lavarse las manos antes de comer?	Para reducir microbios	Para enfriar los alimentos	Para cambiar el sabor	Para gastar jabón
+¿Qué parte de una planta absorbe principalmente agua del suelo?	Raíces	Flores	Pétalos	Frutos
+¿Qué instrumento permite observar objetos muy pequeños?	Microscopio	Telescopio	Binoculares	Periscopio
+Si un tren tiene 5 vagones y cada vagón lleva 6 pasajeros, ¿cuántos pasajeros van?	30	11	25	36
+¿Con qué unidad medirías normalmente el largo de un lápiz?	Centímetros	Litros	Kilogramos	Horas
+¿Qué sucede con el agua cuando se calienta hasta hervir?	Forma vapor	Se convierte en hielo	Se vuelve metal	Desaparece de la materia
+¿Por qué los peces pueden respirar bajo el agua?	Porque tienen branquias	Porque tienen alas	Porque no necesitan oxígeno	Porque guardan aire para siempre
+¿Qué dos colores se mezclan para obtener naranja con pinturas comunes?	Rojo y amarillo	Azul y verde	Negro y blanco	Rojo y azul
+Una persona tiene 15 monedas y pierde 4. ¿Cuántas le quedan?	11	10	12	9
+¿Cuál es la figura que tiene tres lados?	Triángulo	Cuadrado	Pentágono	Círculo
+Un libro tiene 40 páginas y leíste 25. ¿Cuántas faltan?	15	10	20	25
+Si plantas un árbol, ¿qué beneficio puede aportar a su entorno?	Dar sombra y ayudar a producir oxígeno	Convertir el aire en plástico	Eliminar toda la lluvia	Detener el viento por completo
+¿Cuál es una fuente de energía renovable?	Viento	Carbón	Petróleo	Gasolina
+¿Cuál es la función principal de un semáforo?	Ordenar el tránsito	Medir la lluvia	Vender boletos	Indicar la temperatura
+Un reloj marca las 2:30. ¿Cuántos minutos faltan para las 3:00?	30	20	40	60
+¿Cuál de estos animales es un mamífero?	Delfín	Tiburón	Pulpo	Trucha
+¿Qué debes hacer si encuentras una señal que dice «No pasar»?	Respetar la señal	Ignorarla	Pasar corriendo	Taparla con la mano
+¿Qué nombre recibe una palabra que significa lo contrario de otra?	Antónimo	Sinónimo	Sustantivo	Adjetivo
+¿Qué palabra está escrita correctamente?	Biblioteca	Bivlioteca	Biblioteka	Bibilioteca
+¿Cuál de estos objetos puede flotar con mayor facilidad en agua dulce?	Un corcho	Una piedra grande	Un clavo de hierro	Una moneda
+Si una planta recibe luz y agua adecuadas, ¿qué proceso le permite producir alimento?	Fotosíntesis	Evaporación	Condensación	Oxidación
+¿Qué debemos hacer con las pilas usadas?	Llevarlas a un punto de recolección	Tirarlas al desagüe	Enterrarlas en el jardín	Quemarlas
+En un campeonato, un equipo gana 3 partidos de 2 puntos cada uno. ¿Cuántos puntos suma?	6	5	8	9
+¿Cuántos minutos hay en dos horas?	120	90	100	180
+¿Qué parte del cuerpo ayuda a proteger el cerebro?	Cráneo	Rodilla	Costillas	Tobillo
+¿Qué significa «evacuar» cuando hay una emergencia?	Salir hacia un lugar seguro	Esconderse sin avisar	Seguir jugando	Cerrar los ojos
+¿Qué fenómeno permite que una cometa se mantenga en el aire?	El viento	La gravedad sola	La oscuridad	El frío
+Si una camiseta vale 10 monedas y tienes 7, ¿cuántas te faltan?	3	2	4	5
+¿Cuál de estos ejemplos muestra cooperación?	Dos niños trabajan juntos en una tarea	Una persona esconde los materiales	Un niño rompe el trabajo de otro	Nadie comparte información
+Si cada cuaderno cuesta 4 monedas, ¿cuánto cuestan 3 cuadernos?	12	7	10	14
+¿Qué debes hacer antes de compartir una noticia sorprendente por internet?	Comprobar si la fuente es confiable	Compartirla sin leer	Cambiar el título	Borrar el nombre del autor

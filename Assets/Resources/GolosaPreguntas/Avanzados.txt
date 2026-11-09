@@ -1,0 +1,100 @@
+¿Cuál es la capital de Australia?	Canberra	Sídney	Melbourne	Perth
+¿Quién pintó la famosa obra La noche estrellada?	Vincent van Gogh	Pablo Picasso	Leonardo da Vinci	Salvador Dalí
+¿Qué idioma tiene más hablantes nativos en el mundo?	Chino mandarín	Inglés	Español	Francés
+¿Quién escribió la novela Don Quijote de la Mancha?	Miguel de Cervantes	Gabriel García Márquez	William Shakespeare	Pablo Neruda
+¿Qué significan las siglas ONU?	Organización de las Naciones Unidas	Organización Nacional Universal	Oficina de Naciones Unidas	Organización de Naciones Unificadas
+¿Cuántos jugadores de un equipo de fútbol pueden estar en el campo al mismo tiempo, incluyendo al portero?	11	10	12	9
+¿Cuál es la moneda oficial de Japón?	Yen	Yuan	Won	Dólar
+¿Qué artista es conocido por pintar el Guernica?	Pablo Picasso	Frida Kahlo	Diego Rivera	Claude Monet
+¿Qué significan las siglas WWW en internet?	World Wide Web	World Wireless Web	Web World Window	Wide World Website
+¿Qué instrumento se utiliza para medir la presión atmosférica?	Barómetro	Termómetro	Anemómetro	Higrómetro
+¿Cuál es el 15 % de 240?	36	24	48	30
+Si 4x − 7 = 21, ¿cuánto vale x?	7	5	6	8
+¿Cuál es el promedio de los números 6, 8, 10 y 12?	9	8	10	11
+Si recorres 90 km en una hora y media, ¿cuál es tu velocidad promedio?	60 km/h	45 km/h	90 km/h	75 km/h
+¿Qué número es mayor?	3/5	0.55	1/2	0.45
+¿Cuál es el área de un triángulo con base de 12 cm y altura de 7 cm?	42 cm²	84 cm²	38 cm²	48 cm²
+¿Cuánto es 2 elevado a la quinta potencia?	32	10	16	64
+¿Cuánto es tres cuartas partes de 80?	60	40	50	65
+¿Cuál es la probabilidad de obtener un número par al lanzar un dado convencional de seis caras?	1/2	1/3	1/6	2/3
+¿Cuál es la raíz cuadrada de 169?	13	11	14	12
+¿Cuál es el gas más abundante en la atmósfera terrestre?	Nitrógeno	Oxígeno	Dióxido de carbono	Hidrógeno
+¿Qué valor de pH se considera neutro a 25 °C?	7	0	14	5
+¿Qué orgánulo celular se encarga de realizar la fotosíntesis en las plantas?	Cloroplasto	Mitocondria	Ribosoma	Núcleo
+¿Cuál es la unidad de medida de la resistencia eléctrica?	Ohmio	Voltio	Amperio	Vatio
+¿Cómo se llama la energía que posee un objeto debido a su altura en un campo gravitatorio?	Energía potencial gravitatoria	Energía cinética	Energía térmica	Energía química
+¿Qué significan las siglas ADN?	Ácido desoxirribonucleico	Ácido ribonucleico	Ácido dinucleico	Ácido nucleico doble
+¿Cuál es la unidad de fuerza en el Sistema Internacional?	Newton	Joule	Pascal	Watt
+¿Qué células sanguíneas transportan principalmente el oxígeno por el cuerpo?	Glóbulos rojos	Glóbulos blancos	Plaquetas	Neuronas
+¿A qué temperatura hierve el agua pura aproximadamente al nivel del mar?	100 °C	90 °C	80 °C	120 °C
+¿Cuál es la velocidad aproximada de la luz en el vacío?	300,000 km/s	150,000 km/s	30,000 km/s	3,000 km/s
+¿Qué civilización construyó Machu Picchu?	Inca	Maya	Azteca	Olmeca
+¿En qué año llegó el ser humano por primera vez a la Luna?	1969	1959	1975	1980
+¿Qué océano se encuentra entre África y Australia?	Índico	Pacífico	Atlántico	Ártico
+¿Cuáles son los dos países de América del Sur que no tienen salida al mar?	Bolivia y Paraguay	Perú y Ecuador	Colombia y Venezuela	Chile y Argentina
+¿En qué año cayó el Muro de Berlín?	1989	1979	1991	1969
+¿Cuál es el desierto cálido más grande del mundo?	Sahara	Gobi	Atacama	Kalahari
+¿Cuál es la capital de Japón?	Tokio	Kioto	Osaka	Hiroshima
+¿En qué año comenzó la Independencia de México?	1810	1821	1910	1800
+¿Qué acontecimiento histórico comenzó en Francia en 1789?	Revolución francesa	Primera Guerra Mundial	Revolución industrial	Independencia de Estados Unidos
+¿En qué continente se encuentra el monte Kilimanjaro?	África	Asia	Europa	América
+Si me nombras, desaparezco. ¿Qué soy?	El silencio	El eco	La sombra	El viento
+Tengo ciudades, montañas y ríos, pero no edificios, árboles ni agua reales. ¿Qué soy?	Un mapa	Un planeta	Una fotografía	Un telescopio
+¿Qué puede romperse sin necesidad de tocarlo?	Una promesa	Una piedra	Un cristal	Una ventana
+Dos padres y dos hijos van juntos al cine, pero solo compran tres boletos y todos entran. ¿Cómo es posible?	Son abuelo, padre e hijo	Uno entró gratis	Compraron un boleto doble	Eran cuatro personas
+Un tren eléctrico viaja hacia el norte y el viento sopla hacia el sur. ¿Hacia dónde va el humo del tren?	No produce humo	Hacia el norte	Hacia el sur	Hacia el oeste
+Completa la secuencia: 2, 6, 12, 20, 30...	42	36	40	44
+Si cinco máquinas fabrican cinco piezas en cinco minutos, ¿cuánto tardarán 100 máquinas en fabricar 100 piezas, trabajando al mismo ritmo?	5 minutos	100 minutos	20 minutos	500 minutos
+Si adelantas al corredor que ocupa el segundo lugar en una carrera, ¿en qué posición quedas?	Segundo lugar	Primer lugar	Tercer lugar	Cuarto lugar
+¿Cuántos meses del año tienen al menos 28 días?	12	1	11	6
+Dentro de una bolsa hay cuatro pelotas rojas y tres azules. ¿Cuántas debes sacar como mínimo, sin mirar, para garantizar que tienes dos del mismo color?	3	2	4	5
+Un artículo cuesta 80 unidades y tiene 25 % de descuento. ¿Cuál es su precio final?	60	55	65	70
+En una bolsa hay 3 bolas rojas y 2 azules. ¿Cuál es la probabilidad de sacar una azul?	2/5	3/5	1/2	2/3
+Un vehículo recorre 150 km en 3 horas a velocidad constante. ¿Cuál es su velocidad media?	50 km/h	45 km/h	60 km/h	75 km/h
+Si el precio pasa de 100 a 120, ¿cuál es el aumento porcentual?	20 %	15 %	12 %	25 %
+En una clase de 24 estudiantes, 6 faltan. ¿Qué porcentaje asistió?	75 %	80 %	70 %	60 %
+¿Qué tipo de gráfico es adecuado para mostrar la evolución mensual de ventas?	Gráfico de líneas	Diagrama de Venn	Mapa político	Organigrama
+¿Qué se debe hacer primero ante un correo que solicita una contraseña mediante un enlace sospechoso?	Verificar su autenticidad sin abrir el enlace	Introducir la contraseña	Reenviarlo a todos	Descargar sus archivos
+¿Qué es una copia de seguridad de archivos?	Una copia para recuperar información	Una forma de aumentar la pantalla	Un virus informático	Una contraseña temporal
+¿Cuál es el resultado de 2 al cubo más 3 al cuadrado?	17	13	25	19
+Si 3x + 6 = 24, ¿cuánto vale x?	6	5	7	8
+¿Cuál es la mediana del conjunto 2, 4, 8, 10, 20?	8	4	10	9
+¿Cuál es el promedio de 4, 6, 8 y 10?	7	6	8	9
+¿Cuánto mide cada ángulo interior de un triángulo equilátero?	60 grados	45 grados	90 grados	120 grados
+¿Cuál de estas expresiones equivale a 0,75?	3/4	2/3	1/4	4/5
+Si la razón de chicos a chicas es 2:3 y hay 10 chicos, ¿cuántas chicas hay?	15	12	20	25
+¿Qué propiedad explica por qué un objeto conserva su estado de reposo si no actúa una fuerza neta?	Inercia	Refracción	Conductividad	Difusión
+¿Qué magnitud se mide en newtons?	Fuerza	Temperatura	Volumen	Velocidad
+¿Qué transformación ocurre al conectar una lámpara eléctrica?	Energía eléctrica a luz y calor	Luz a energía nuclear	Energía química a gravedad	Sonido a electricidad únicamente
+¿Cuál es la función principal del ADN en los seres vivos?	Almacenar información genética	Transportar oxígeno en sangre	Producir luz solar	Romper minerales
+¿Cuál de estas células no suele tener núcleo definido?	Bacteriana	Animal	Vegetal	De hongo
+¿Qué ocurre cuando una sustancia se disuelve en agua?	Forma una mezcla homogénea si se disuelve por completo	Se transforma siempre en gas	Desaparece su masa	Se convierte necesariamente en sal
+¿Qué proceso natural ayuda a devolver agua de las nubes a la superficie?	Precipitación	Fotosíntesis	Combustión	Respiración
+¿Cuál es el objetivo principal del cifrado de datos?	Proteger la confidencialidad de la información	Aumentar la resolución de pantalla	Eliminar archivos duplicados	Cambiar el idioma del sistema
+¿Qué característica distingue a una contraseña robusta?	Es larga y difícil de adivinar	Incluye el nombre del usuario	Se comparte con amigos	Es igual en todas las cuentas
+¿Qué sucede si conectas dos resistencias iguales en serie?	La resistencia total se duplica	La resistencia total se anula	La resistencia total se reduce a la mitad	El voltaje se vuelve siempre cero
+¿Qué unidad se utiliza para medir frecuencia?	Hercio	Julio	Newton	Pascal
+¿Cuál es una ventaja de usar funciones en programación?	Reutilizar lógica y organizar el código	Eliminar la necesidad de pruebas	Garantizar que no existan errores	Evitar cualquier uso de memoria
+¿Qué describe mejor un algoritmo?	Una secuencia finita de instrucciones para resolver un problema	Una imagen de alta resolución	Un dispositivo de almacenamiento	Un lenguaje humano
+¿Qué estructura de datos sigue normalmente el orden primero en entrar, primero en salir?	Cola	Pila	Árbol binario	Grafo no dirigido
+¿Qué medida es más adecuada para proteger una cuenta importante?	Activar autenticación de dos factores	Desactivar actualizaciones	Publicar la contraseña	Usar una clave compartida
+¿Qué tipo de energía tiene un objeto por estar en movimiento?	Cinética	Potencial gravitatoria únicamente	Térmica únicamente	Química únicamente
+¿Qué variable debería mantenerse constante para comparar dos fertilizantes en un experimento?	La cantidad de agua utilizada	El nombre de cada fertilizante	La marca del cuaderno	La fecha del informe solamente
+¿Cuál es una diferencia entre correlación y causalidad?	Correlación no demuestra por sí sola causa	Toda correlación implica causa	Causalidad significa ausencia de relación	No hay diferencia entre ambas
+¿Qué indicador es útil para comparar poblaciones de diferentes tamaños?	Tasa por cada 1000 habitantes	Número bruto sin contexto	Color del gráfico	Orden alfabético
+Un autobús sale a las 08:40 y llega a las 10:15. ¿Cuánto dura el viaje?	1 hora y 35 minutos	1 hora y 25 minutos	1 hora y 45 minutos	2 horas y 15 minutos
+En una muestra hay valores 2, 2, 3, 7 y 9. ¿Cuál es la moda?	2	3	7	9
+Si se lanza un dado equilibrado de seis caras, ¿cuál es la probabilidad de obtener un número par?	1/2	1/3	2/3	1/6
+¿Cuál es la raíz cuadrada de 144?	12	11	14	16
+¿Cuánto es el 30 % de 250?	75	60	70	90
+Un rectángulo mide 12 cm de largo y 5 cm de ancho. ¿Cuál es su área?	60 cm²	34 cm²	17 cm²	120 cm²
+¿Qué organismo realiza principalmente la descomposición de materia orgánica en un bosque?	Hongos y bacterias	Solo aves rapaces	Solo reptiles	Solo árboles grandes
+¿Qué ocurre con una población si sus nacimientos superan las muertes, sin considerar migración?	Tiende a aumentar	Permanece necesariamente igual	Tiende a desaparecer inmediatamente	Se divide por dos
+¿Cuál es una fuente primaria para investigar una noticia de una ley recién aprobada?	El texto oficial de la ley	Un rumor sin autor	Un meme anónimo	Un titular sin enlace
+¿Qué es el sesgo de selección en una encuesta?	Elegir una muestra que no representa a la población	Ordenar respuestas alfabéticamente	Calcular el promedio correctamente	Usar varias preguntas abiertas
+¿Qué operación permite comparar el cambio entre dos mediciones en porcentaje?	(Diferencia / valor inicial) × 100	Valor final + valor inicial	Valor inicial × valor final	Diferencia sin dividir
+¿Qué hace un sistema de control de versiones de código?	Registra cambios y facilita recuperar versiones	Reemplaza todas las pruebas automáticas	Garantiza que el software sea invulnerable	Instala drivers automáticamente
+¿Cuál es la función principal de una base de datos relacional?	Organizar datos en tablas relacionadas	Aumentar la velocidad del ventilador	Crear únicamente imágenes	Sustituir el sistema operativo
+¿Qué describe mejor la latencia de una red?	El tiempo que tarda una comunicación	La cantidad de usuarios registrados	El tamaño físico de la pantalla	El número de teclas
+¿Cuál es la respuesta más responsable ante una publicación científica sorprendente?	Revisar metodología, evidencia y fuentes	Aceptarla por tener muchas vistas	Compartirla sin leer	Ignorar todas las publicaciones nuevas
+En un mapa con escala 1:100 000, 1 cm representa ¿cuántos kilómetros reales?	1 km	10 km	100 km	0,1 km

@@ -1,0 +1,291 @@
+fileFormatVersion: 2
+guid: 5c49606dda770c4439b089cc962959ef
+ModelImporter:
+  serializedVersion: 24600
+  internalIDToNameTable: []
+  externalObjects: {}
+  materials:
+    materialImportMode: 2
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+    searchTexturesGlobally: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    preBakeConvexCollisionMesh: 0
+    preBakeTriangleCollisionMesh: 0
+    importPhysicalCameras: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    generateMeshLods: 0
+    meshLodGenerationFlags: 0
+    maximumMeshLod: -1
+    importUVs: -1
+    importVertexColors: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    strictVertexDataChecks: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+    calculateBlendshapeNormalsDeltaFromImportedNormals: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton:
+    - name: untitled(Clone)
+      parentName: 
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Empty
+      parentName: untitled(Clone)
+      position: {x: 15.010844, y: 18.444124, z: -5.5654936}
+      rotation: {x: -0.014293991, y: -0.71812993, z: -0.012319071, w: 0.69565314}
+      scale: {x: 1091.2457, y: 1090.8624, z: 104.03228}
+    - name: Cube.001
+      parentName: untitled(Clone)
+      position: {x: 9.9951, y: 3.101181, z: -2.414747}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: Armature
+      parentName: untitled(Clone)
+      position: {x: 8.298485, y: 20.428375, z: -4.613533}
+      rotation: {x: -0.7071068, y: 0, z: -0, w: 0.7071067}
+      scale: {x: 100, y: 100, z: 100}
+    - name: MAIN
+      parentName: Armature
+      position: {x: -0.08841266, y: -0.057840835, z: -0.06699121}
+      rotation: {x: 0.7116956, y: -0.00000008374311, z: -0.00000008484074, w: 0.702488}
+      scale: {x: 1, y: 1, z: 1}
+    - name: pozvonok 2
+      parentName: MAIN
+      position: {x: -8.483208e-10, y: 0.0225685, z: -1.0742809e-10}
+      rotation: {x: -0.020980477, y: 0.00025417324, z: 0.039031543, w: 0.9990177}
+      scale: {x: 1, y: 1.0000001, z: 1}
+    - name: pozvonok 3
+      parentName: pozvonok 2
+      position: {x: 0.0000000016608828, y: 0.025335018, z: 1.3387762e-10}
+      rotation: {x: 0.0010698885, y: 0.0010037872, z: -0.06614585, w: 0.99780893}
+      scale: {x: 0.9999999, y: 1, z: 1}
+    - name: pozvonok 4
+      parentName: pozvonok 3
+      position: {x: -4.5743945e-10, y: 0.022950428, z: -1.7287675e-10}
+      rotation: {x: 0.022172973, y: 0.0014427159, z: -0.056454893, w: 0.9981579}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+    - name: Bone.008
+      parentName: pozvonok 4
+      position: {x: -1.2136298e-10, y: 0.026162064, z: -1.9441358e-10}
+      rotation: {x: -0.019738816, y: -0.004307609, z: 0.03920388, w: 0.99902695}
+      scale: {x: 0.99999994, y: 1, z: 0.99999976}
+    - name: Bone.008_end
+      parentName: Bone.008
+      position: {x: -0, y: 0.028396534, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left predruka
+      parentName: pozvonok 3
+      position: {x: -4.5743945e-10, y: 0.022950428, z: -1.7287675e-10}
+      rotation: {x: -0.5537656, y: -0.00004495488, z: -0.045760304, w: 0.8314142}
+      scale: {x: 1.0000004, y: 1.0000001, z: 1.0000002}
+    - name: left ruka
+      parentName: left predruka
+      position: {x: -0.0000000023841857, y: 0.020047894, z: 0.000000005364418}
+      rotation: {x: -0.21827948, y: -0.013971874, z: -0.06995668, w: 0.9732754}
+      scale: {x: 0.99999976, y: 1, z: 1.0000001}
+    - name: left posleruka
+      parentName: left ruka
+      position: {x: 7.45058e-10, y: 0.056657467, z: 0.000000002980232}
+      rotation: {x: 0.01761019, y: 0.009451009, z: 0.055539243, w: 0.9982565}
+      scale: {x: 1, y: 1.0000005, z: 1.0000002}
+    - name: left ladon
+      parentName: left posleruka
+      position: {x: -0.0000000011920929, y: 0.044108883, z: 0.0000000035762786}
+      rotation: {x: 0.053519186, y: 0.03237504, z: 0.041704617, w: 0.9971702}
+      scale: {x: 1, y: 1.0000007, z: 1.0000005}
+    - name: left ladon_end
+      parentName: left ladon
+      position: {x: -0, y: 0.03058353, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right predruka
+      parentName: pozvonok 3
+      position: {x: 0.0004076568, y: 0.02295904, z: 0.0005047886}
+      rotation: {x: 0.29403755, y: 0.15120228, z: -0.58591485, w: 0.73985386}
+      scale: {x: 1, y: 0.99999994, z: 1.0000001}
+    - name: right ruka
+      parentName: right predruka
+      position: {x: 0.0000000043213366, y: 0.020284563, z: -0.000000006556511}
+      rotation: {x: 0.11057393, y: 0.97305596, z: -0.06908357, w: 0.19016571}
+      scale: {x: 1.0000004, y: 1.0000007, z: 1.0000004}
+    - name: right posleruka
+      parentName: right ruka
+      position: {x: -0.000000002682209, y: 0.056657456, z: -0.0000000018626451}
+      rotation: {x: -0.012831828, y: -0.03826432, z: -0.0352525, w: 0.99856323}
+      scale: {x: 1.0000004, y: 1.0000008, z: 1.0000006}
+    - name: right ladon
+      parentName: right posleruka
+      position: {x: 0.0000000047683715, y: 0.044108886, z: 2.9802322e-10}
+      rotation: {x: -0.066814564, y: -0.9654275, z: -0.011806654, w: 0.2516867}
+      scale: {x: 1.0000004, y: 1.0000004, z: 1.0000001}
+    - name: right ladon_end
+      parentName: right ladon
+      position: {x: -0, y: 0.03058354, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: left prednoga
+      parentName: MAIN
+      position: {x: -0.0000000021744226, y: -0.000007319845, z: -0.00056207454}
+      rotation: {x: 0.8528566, y: 0.13149421, z: 0.14162801, w: -0.4850634}
+      scale: {x: 0.9999999, y: 1.0000001, z: 1.0000002}
+    - name: left lyazhka
+      parentName: left prednoga
+      position: {x: -0.0000000020861626, y: 0.028885756, z: 5.9604643e-10}
+      rotation: {x: -0.54119235, y: -0.074358635, z: 0.0899324, w: 0.8327627}
+      scale: {x: 1.0000001, y: 1.0000007, z: 1.0000007}
+    - name: left golyn
+      parentName: left lyazhka
+      position: {x: -0.0000000032782554, y: 0.06855823, z: -0.0000000035017729}
+      rotation: {x: 0.07374414, y: 0.003633778, z: -0.01691919, w: 0.99712706}
+      scale: {x: 1.0000001, y: 0.9999995, z: 0.9999999}
+    - name: left paltsi
+      parentName: left golyn
+      position: {x: -0.000000005364418, y: 0.07028883, z: -0.0000000029057263}
+      rotation: {x: -0.15826163, y: -0.56807613, z: 0.1667936, w: 0.7902043}
+      scale: {x: 0.9999998, y: 1.0000005, z: 1.0000004}
+    - name: left paltsi_end
+      parentName: left paltsi
+      position: {x: -0, y: 0.0368309, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: right prednoga
+      parentName: MAIN
+      position: {x: 0.0004079739, y: 0.0000020710775, z: 0.00015882298}
+      rotation: {x: 0.8882334, y: 0.10559199, z: 0.44316095, w: 0.059160836}
+      scale: {x: 1.0000001, y: 0.99999976, z: 1}
+    - name: right lyazhka
+      parentName: right prednoga
+      position: {x: -0.000000002682209, y: 0.030035667, z: 0.000000002980232}
+      rotation: {x: 0.22003096, y: -0.4747129, z: 0.22522186, w: 0.82189363}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1}
+    - name: right golyn
+      parentName: right lyazhka
+      position: {x: 0.0000000032782554, y: 0.068901405, z: -0.0000000062584875}
+      rotation: {x: -0.21924952, y: -0.28580013, z: 0.044672053, w: 0.9318006}
+      scale: {x: 0.99999994, y: 0.9999997, z: 1.0000001}
+    - name: right paltsi
+      parentName: right golyn
+      position: {x: -0.000000002980232, y: 0.07028881, z: 0.000000001490116}
+      rotation: {x: 0.023011457, y: -0.018770318, z: 0.12897588, w: 0.99120307}
+      scale: {x: 0.99999994, y: 1.0000005, z: 1}
+    - name: right paltsi_end
+      parentName: right paltsi
+      position: {x: -0, y: 0.03683091, z: 0}
+      rotation: {x: 0, y: -0, z: -0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+    - name: Camera
+      parentName: untitled(Clone)
+      position: {x: -49.11278, y: 27.55681, z: -38.48884}
+      rotation: {x: 0.061325755, y: 0.3595339, z: -0.047567192, w: 0.92989886}
+      scale: {x: 2270.7048, y: 126.78585, z: 1763.0387}
+    - name: Spot
+      parentName: untitled(Clone)
+      position: {x: -19.122036, y: 49.80949, z: -18.106276}
+      rotation: {x: 0.5115134, y: 0.117688596, z: 0.80919373, w: -0.26402447}
+      scale: {x: 101.73975, y: 103.55316, z: 175.7586}
+    - name: TriLamp-Back
+      parentName: untitled(Clone)
+      position: {x: 4.269686, y: 26.3, z: 19.890568}
+      rotation: {x: 0.915897, y: -0.04816335, z: 0.115673065, w: 0.38135645}
+      scale: {x: 100, y: 100, z: 100}
+    - name: TriLamp-Fill
+      parentName: untitled(Clone)
+      position: {x: 16.495472, y: 26.3, z: -24.506657}
+      rotation: {x: 0.13163999, y: 0.38045785, z: -0.9137387, w: 0.05481159}
+      scale: {x: 100.00001, y: 100.00001, z: 100.00001}
+    - name: TriLamp-Key
+      parentName: untitled(Clone)
+      position: {x: -11.446199, y: 26.3, z: -10.81582}
+      rotation: {x: 0.52025753, y: -0.31753334, z: 0.76261365, w: 0.21662222}
+      scale: {x: 100, y: 100, z: 100.00001}
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 1
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  importBlendShapeDeformPercent: 1
+  remapMaterialsIfMaterialImportModeIsNone: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

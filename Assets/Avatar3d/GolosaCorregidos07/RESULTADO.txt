@@ -1,0 +1,4 @@
+GOLOSA AR - Resultado de reparación
+CREADO: Assets/Avatar3d/GolosaCorregidos07/Golosa_Nino_Visible07.prefab (mallas visibles: 2)
+CREADO: Assets/Avatar3d/GolosaCorregidos07/Golosa_Oso_Texturas07.prefab (mallas visibles: 5)
+CREADO: Assets/Avatar3d/GolosaCorregidos07/Golosa_Nina_Texturas07.prefab (mallas visibles: 1)
