@@ -1,282 +1,120 @@
-
-
-\# Golosa AR 🎮
-
-
-
-\*\*Golosa AR\*\* es un videojuego educativo para Android que integra la golosa tradicional con realidad aumentada. Su propósito es incentivar el uso y la conservación de los juegos tradicionales mediante una experiencia en la que la tecnología es una aliada del aprendizaje.
-
-
-
-\*\*Proyecto académico:\*\* Plataformas de Computación · Ingeniería de Sistemas · Fundación Universitaria Juan de Castellanos · 2026-2.
-
-
-
-\## 1. Objetivo
-
-
-
-Promover el aprendizaje interactivo y la preservación de los juegos tradicionales mediante una versión digital de la golosa que incorpora un tablero virtual 3D, preguntas educativas y realidad aumentada.
-
-
-
-\## 2. Funcionalidades
-
-
-
-| Función | Descripción |
-
-| --- | --- |
-
-| \*\*Individual\*\* | Permite configurar un perfil y completar una partida personal. |
-
-| \*\*Por turnos\*\* | Permite configurar entre 2 y 4 participantes y registrar sus resultados. |
-
-| \*\*Selección de avatar\*\* | Incluye personajes 3D para representar a los jugadores. |
-
-| \*\*Categorías educativas\*\* | Ofrece las categorías \*\*Niños\*\* y \*\*Avanzados\*\*. |
-
-| \*\*Tablero 3D\*\* | Representa diez casillas de golosa sobre el entorno. |
-
-| \*\*Realidad aumentada / QR\*\* | Permite preparar la colocación del tablero mediante detección de superficies o con el marcador del proyecto. |
-
-| \*\*Preguntas y desafíos\*\* | Integra retos educativos en la mecánica del juego. |
-
-| \*\*Resultados\*\* | Registra puntuaciones e historial local de partidas. |
-
-
-
-\## 3. Tecnologías
-
-
-
-\- \*\*Unity:\*\* `6000.6.4f1`.
-
-\- \*\*Lenguaje:\*\* C#.
-
-\- \*\*AR Foundation:\*\* `6.6.2`.
-
-\- \*\*Google ARCore XR Plugin:\*\* `6.6.2`.
-
-\- \*\*Universal Render Pipeline (URP):\*\* `17.6.0`.
-
-\- \*\*Interfaz:\*\* Unity UI y TextMesh Pro.
-
-\- \*\*Persistencia local:\*\* PlayerPrefs y archivos JSON para preferencias e historial.
-
-
-
-Las versiones se obtienen de `ProjectSettings/ProjectVersion.txt` y `Packages/manifest.json`.
-
-
-
-\## 4. Requisitos y compatibilidad
-
-
-
-\- \*\*Android 8.0 (API 26) o superior:\*\* versión mínima configurada en el proyecto.
-
-\- \*\*Cámara funcional\*\* y permiso para utilizarla.
-
-\- \*\*Dispositivo compatible con ARCore\*\* para la detección de superficies y las funciones de realidad aumentada que lo requieren.
-
-\- Espacio disponible para instalar la APK.
-
-\- Se recomienda un lugar despejado, bien iluminado y con una superficie visible para la cámara.
-
-
-
-\*\*Importante:\*\* tener Android 8.0 o superior \*\*no garantiza\*\* que la realidad aumentada funcione. La compatibilidad también depende del modelo del teléfono, sus sensores y los servicios de RA disponibles. Verifica el modelo en la \[lista oficial de dispositivos compatibles con ARCore](https://developers.google.com/ar/devices).
-
-
-
-Los emuladores generales como BlueStacks pueden no ejecutar correctamente ARCore, incluso si consiguen instalar la APK.
-
-
-
-\## 5. Estructura del proyecto
-
-
-
-```text
-
+<div align="center">🎮 Golosa AR
+Tradición, aprendizaje e innovación con realidad aumentada
+Videojuego educativo para Android · Unity 6 · C# · AR Foundation · ARCore
+
+Proyecto académico · Ingeniería de Sistemas · Fundación Universitaria Juan de Castellanos · 2026-2
+</div>📖 ¿Qué es Golosa AR?
+Golosa AR es un videojuego educativo para Android que adapta el juego tradicional de la golosa a una experiencia interactiva con realidad aumentada, personajes 3D y desafíos educativos.
+
+Su propósito es promover el aprendizaje y la conservación de los juegos tradicionales a través de la tecnología. Los jugadores pueden configurar su perfil, escoger un avatar, participar individualmente o por turnos y jugar sobre un tablero virtual.
+🎯 Objetivo del proyecto
+Promover el aprendizaje interactivo y la preservación de los juegos tradicionales mediante una versión digital de la golosa que integra realidad aumentada, un tablero tridimensional y preguntas educativas.
+✨ Funcionalidades principales
+Funcionalidad	Descripción
+Modo individual	Permite crear un perfil y desarrollar una partida personal.
+Modo por turnos	Permite configurar partidas de 2 a 4 participantes y registrar sus resultados.
+Avatares 3D	Permite elegir personajes para representar a los jugadores.
+Categorías educativas	Incluye Niños y Avanzados.
+Tablero virtual	Presenta una golosa 3D de diez casillas.
+Realidad aumentada	Ofrece colocación del tablero mediante reconocimiento de superficies en equipos compatibles.
+Marcador QR	Incluye un flujo de colocación mediante el marcador del proyecto.
+Desafíos educativos	Incorpora preguntas durante las partidas.
+Resultados	Gestiona información local de puntuaciones e historial.
+
+
+Algunas funciones dependen de la compatibilidad del dispositivo y de las condiciones del entorno.
+
+🛠️ Tecnologías utilizadas
+Tecnología	Versión / función
+Unity 6	6000.6.4f1
+C#	Lógica del videojuego y control de interfaces
+AR Foundation	6.6.2
+Google ARCore XR Plugin	6.6.2
+Universal Render Pipeline	17.6.0
+Unity UI y TextMesh Pro	Interfaz y textos
+PlayerPrefs	Persistencia local de preferencias
+
+
+Las versiones se pueden comprobar en ProjectSettings/ProjectVersion.txt y Packages/manifest.json.
+📱 Requisitos y compatibilidad
+- Android 8.0 (API 26) o superior: mínimo establecido en la configuración del proyecto.
+- Cámara funcional y autorización del permiso de cámara.
+- Dispositivo compatible con ARCore para utilizar la detección de superficies.
+- Espacio disponible para instalar la APK.
+- Un lugar seguro, despejado y bien iluminado para utilizar la realidad aumentada.
+Importante: Android 8.0 o superior no garantiza que el teléfono admita ARCore. Para comprobar la compatibilidad, consulta la lista oficial de dispositivos compatibles con ARCore.
+
+Los emuladores Android comunes pueden no admitir correctamente funciones de realidad aumentada. Se recomienda probar la aplicación en un teléfono físico compatible.
+📁 Estructura del repositorio
 GolosaAR/
-
-├── Assets/
-
-│   ├── Scenes/                # Escenas principales del videojuego
-
-│   ├── Scripts/
-
-│   │   ├── AR/               # Preparación y control de la experiencia AR
-
-│   │   ├── Game/             # Tablero, avatares, turnos e historial
-
-│   │   └── UI/               # Interfaces, preguntas y navegación
-
-│   └── Editor/               # Herramientas de generación y configuración
-
-├── Packages/                 # Paquetes y dependencias de Unity
-
-├── ProjectSettings/          # Configuración de proyecto y Android
-
-├── .gitignore                # Excluye cachés y archivos generados
-
-└── README.md
-
-```
-
-
-
-\### Escenas principales
-
-
-
-| Escena | Uso |
-
-| --- | --- |
-
-| `00\_Inicio` | Pantalla de bienvenida. |
-
-| `01\_Perfil` | Datos del jugador, categoría y avatar. |
-
-| `02\_ModoJuego` | Selección de modalidad. |
-
-| `03\_Juego` | Preparación AR y partida. |
-
-
-
-Los scripts creados para el proyecto se encuentran principalmente en `Assets/Scripts/` y `Assets/Editor/`. Se han documentado los componentes principales; algunos scripts auxiliares conservan comentarios breves. Los archivos de terceros se mantienen sin modificaciones.
-
-
-
-\## 6. Abrir el proyecto en Unity
-
-
-
-1\. Instala \*\*Unity Hub\*\* y la versión \*\*Unity `6000.6.4f1`\*\*, incluyendo \*\*Android Build Support\*\* (SDK/NDK y OpenJDK).
-
-2\. Clona el repositorio:
-
-
-
-&#x20;  ```bash
-
-&#x20;  git clone https://github.com/CarenGarciaDev/GolosaAR.git
-
-&#x20;  ```
-
-
-
-3\. En \*\*Unity Hub\*\*, selecciona \*\*Add project from disk\*\* y abre la carpeta descargada.
-
-4\. Deja que Unity importe los recursos y resuelva las dependencias de `Packages`.
-
-5\. Abre la escena `Assets/Scenes/00\_Inicio.unity`.
-
-6\. Para compilar en Android, revisa los perfiles de compilación, las escenas habilitadas y la configuración del dispositivo de prueba.
-
-
-
-No hace falta descargar `Library`, `Temp`, `Logs` ni `Obj`: Unity las genera automáticamente.
-
-
-
-\## 7. Instalación y guía rápida
-
-
-
-La \*\*APK\*\* se entrega por separado del código fuente.
-
-
-
-1\. Copia la APK al dispositivo Android compatible.
-
-2\. Instálala desde el administrador de archivos; autoriza la instalación desde esa fuente si Android lo solicita.
-
-3\. Abre \*\*Golosa AR\*\* y concede el permiso de cámara.
-
-4\. Selecciona la modalidad \*\*Individual\*\* o \*\*Por turnos\*\*.
-
-5\. Configura el perfil, categoría y avatar según el modo.
-
-6\. Elige la opción de preparación del tablero: \*\*realidad aumentada\*\* o \*\*marcador QR\*\*.
-
-7\. Sigue las indicaciones de la pantalla, coloca la golosa y comienza la partida.
-
-
-
-\*\*Marcador QR:\*\* utiliza únicamente el marcador oficial del proyecto. Debe mostrarse o imprimirse completo, sin doblar ni cubrir los bordes, y colocarse en una superficie plana con buena iluminación. \*\*Un QR genérico no sustituye al marcador oficial.\*\*
-
-
-
-\## 8. Problemas frecuentes
-
-
-
-| Problema | Recomendación |
-
-| --- | --- |
-
-| La APK no se instala | Revisa versión de Android, espacio disponible, arquitectura y permisos de instalación. |
-
-| La cámara no abre | Autoriza el permiso de cámara desde los ajustes de Android. |
-
-| No se detecta el suelo | Comprueba compatibilidad ARCore, buena iluminación y una superficie con textura. |
-
-| No se reconoce el marcador | Usa el marcador oficial, completamente visible, sin reflejos y bien iluminado. |
-
-| El tablero desaparece | Mantén el celular estable y utiliza las opciones de recuperación del juego, si están disponibles. |
-
-| Falla en un emulador | Prueba en un dispositivo físico compatible con ARCore. |
-
-
-
-\## 9. Entrega académica
-
-
-
-Los productos solicitados se presentan por separado:
-
-
-
-\- \*\*APK\*\* funcional del videojuego.
-
-\- \*\*Carpeta comprimida\*\* del proyecto Unity.
-
-\- \*\*Enlace al repositorio GitHub:\*\* https://github.com/CarenGarciaDev/GolosaAR
-
-\- \*\*Manual de usuario\*\* según la guía GAATI.
-
-
-
-Este README es documentación técnica de acceso al proyecto y \*\*no reemplaza al manual de usuario\*\*.
-
-
-
-\## 10. Créditos
-
-
-
-\*\*Proyecto:\*\* Golosa AR.  
-
-\*\*Asignatura:\*\* Plataformas de Computación.  
-
-\*\*Programa:\*\* Ingeniería de Sistemas.  
-
-\*\*Institución:\*\* Fundación Universitaria Juan de Castellanos.  
-
-\*\*Docente:\*\* David Fernando Bernal Bolívar.  
-
-\*\*Periodo:\*\* 2026-2.
-
-
-
-\---
-
-
-
-\*Golosa AR: tradición, aprendizaje e innovación tecnológica.\*
-
-
-
+├── Assets/             # Escenas, scripts C#, modelos 3D y recursos
+├── Packages/           # Manifiesto y dependencias de Unity
+├── ProjectSettings/    # Configuración del editor, proyecto y Android
+├── .gitignore          # Exclusión de archivos generados por Unity
+└── README.md           # Documentación principal
+Escenas principales
+Escena	Propósito
+00_Inicio	Pantalla de bienvenida y acceso al videojuego.
+01_Perfil	Registro de datos y selección del avatar.
+02_ModoJuego	Selección de modalidad.
+03_Juego	Experiencia de juego y realidad aumentada.
+
+
+Los scripts del proyecto se almacenan dentro de Assets/. No se recomienda mover ni renombrar archivos directamente fuera de Unity, porque las escenas pueden depender de referencias a dichos recursos.
+💻 Cómo descargar y abrir el proyecto en Unity
+Herramientas necesarias
+1. Unity Hub.
+2. Unity Editor 6000.6.4f1.
+3. Módulo Android Build Support, con Android SDK & NDK Tools y OpenJDK.
+4. Conexión a Internet para resolver dependencias durante la primera importación, si es necesario.
+Descargar el código fuente
+Opción A: Git
+git clone https://github.com/CarenGarciaDev/GolosaAR.git
+Opción B: abre el repositorio, selecciona Code → Download ZIP y descomprime el archivo.
+Abrir y compilar
+1. En Unity Hub, selecciona Add project from disk.
+2. Abre la carpeta del proyecto que contiene Assets, Packages y ProjectSettings.
+3. Espera a que Unity importe los recursos y descargue los paquetes necesarios.
+4. Abre la escena 00_Inicio desde el editor.
+5. Para generar una APK, selecciona la plataforma Android en los perfiles de compilación.
+6. Comprueba las escenas incluidas y configura los ajustes de compilación del dispositivo de prueba antes de generar la APK.
+Las carpetas Library, Temp, Logs y Obj se generan automáticamente. No se incluyen en el repositorio.
+
+🚀 Instalación y uso básico de la APK
+La APK se entrega por separado del código fuente.
+1. Copia el archivo APK al dispositivo Android compatible.
+2. Instálalo. Si Android lo solicita, habilita la instalación desde esa fuente.
+3. Abre Golosa AR y concede el permiso de cámara.
+4. Selecciona Individual o Por turnos.
+5. Configura el perfil y el avatar correspondiente.
+6. Escoge la opción de preparación del tablero que ofrezca la pantalla: detección de superficie o marcador del proyecto.
+7. Sigue las indicaciones para colocar el tablero y comenzar la partida.
+Marcador QR: utiliza únicamente el marcador preparado para Golosa AR. Debe estar completo y visible, sin reflejos ni bordes tapados, preferiblemente sobre una superficie plana y bien iluminada. Un código QR genérico no lo reemplaza.
+❓ Solución de problemas
+Problema	Recomendación
+La APK no se instala	Comprueba la versión de Android, el espacio y los permisos de instalación.
+La cámara no funciona	Verifica que el permiso de cámara esté habilitado.
+No se detecta una superficie	Comprueba ARCore, mejora la iluminación y enfoca una superficie con textura.
+No reconoce el marcador	Utiliza el marcador oficial sin recortes, reflejos ni obstrucciones.
+El tablero no aparece	Mantén el teléfono estable y consulta las opciones de recuperación que presente la aplicación.
+Falla en un emulador	Prueba en un dispositivo Android físico compatible con ARCore.
+
+
+📦 Entrega académica
+La entrega del proyecto comprende, según las instrucciones de la asignatura:
+- APK de la aplicación para Android.
+- Proyecto Unity comprimido con código fuente y recursos.
+- Enlace del repositorio: github.com/CarenGarciaDev/GolosaAR.
+- Manual de usuario de la aplicación.
+Este README describe el proyecto y cómo acceder al código; no reemplaza el manual de usuario.
+🎓 Información académica
+Campo	Información
+Proyecto	Golosa AR
+Programa	Ingeniería de Sistemas
+Institución	Fundación Universitaria Juan de Castellanos
+Asignatura	Plataformas de Computación
+Periodo académico	2026-2
+
+
+<div align="center">Golosa AR — Una forma diferente de jugar, aprender y conservar nuestras tradiciones. 💜
+</div>
